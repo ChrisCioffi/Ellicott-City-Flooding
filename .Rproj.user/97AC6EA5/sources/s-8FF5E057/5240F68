@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539096029112.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "902724907",
+    "id" : "5240F68",
+    "lastKnownWriteTime" : 1543609489,
+    "last_content_update" : 1543609490013,
+    "path" : "/GitHub/Ellicott-City-Flooding/USGS_Ellicott_City_flooding.R",
+    "project_path" : "USGS_Ellicott_City_flooding.R",
+    "properties" : {
+        "cursorPosition" : "152,62",
+        "scrollLine" : "134"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

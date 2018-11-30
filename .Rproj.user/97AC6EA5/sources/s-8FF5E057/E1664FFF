@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539119149262.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E1664FFF",
+    "lastKnownWriteTime" : 1539363026,
+    "last_content_update" : 1539363026471,
+    "path" : "/GitHub/Ellicott-City-Flooding/trend_analysis.R",
+    "project_path" : "trend_analysis.R",
+    "properties" : {
+        "cursorPosition" : "5,20",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

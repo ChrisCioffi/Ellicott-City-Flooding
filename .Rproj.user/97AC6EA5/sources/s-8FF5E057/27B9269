@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543510104842.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "27B9269",
+    "lastKnownWriteTime" : -8070450532247928826,
+    "last_content_update" : 1543510104842,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "58D5B10C",
+        "caption" : "flood_gauge",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=flood_gauge&cache_key=58D5B10C",
+        "displayedObservations" : 385,
+        "environment" : "",
+        "object" : "flood_gauge",
+        "preview" : 0,
+        "totalObservations" : 385,
+        "variables" : 4
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

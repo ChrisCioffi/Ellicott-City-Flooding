@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543511264663.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A0B74B85",
+    "lastKnownWriteTime" : 4301842160,
+    "last_content_update" : 1543511264663,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E58FF539",
+        "caption" : "flood_gauge_short",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=flood_gauge_short&cache_key=E58FF539",
+        "displayedObservations" : 163,
+        "environment" : "",
+        "object" : "flood_gauge_short",
+        "preview" : 0,
+        "totalObservations" : 163,
+        "variables" : 4
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
