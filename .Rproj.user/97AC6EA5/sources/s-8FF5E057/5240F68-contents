@@ -67,7 +67,7 @@ comment(siteINFO)
 #on zoom function. 13 is about the closest zoom you can get. The lower the number the farther the zoom. 
 #had real issues getting ggmap to work. But now it is working....This will be needed later. It's just on top because that's what I did. 
 #after some fighting with the internet I was able to get ggmap to work by adding an api. 
-register_google(key = "AIzaSyDksdxAKi3BwDCgchkTAIhi0cPLCCnRqag")
+register_google(key = "Insert_api_here")
 #tests the map.
 ggmap(get_googlemap())
 
